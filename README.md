@@ -13,6 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi , I'm Maria Eduarda Goda</h1>
-<h3 align="center">Programming Student</h3>
-<h3 align="center">FIAP (1/5) Computer Engineering</h3>
+<h1 align="center">Hi , I'm Maria Eduarda Goda </h1>
+<h3 align="center"> 💻 Programming Student</h3>
+<h3 align="center">FIAP (1/5) Computer Engineering ⚡</h3>
