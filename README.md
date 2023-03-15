@@ -2,6 +2,7 @@
 <h3 align="center">🖥️ Programming Student from Brazil</h3>
 <h3 align="center">FIAP (1/5) Computer Enginnering⚡</h3>
 <h3> 📌 I'm currently studying python and industry 4.0  </h3>
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/madu_goda/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/maria-eduarda-goda-756738269/) 
 
