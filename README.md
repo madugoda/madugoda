@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Maria Eduarda Goda</h1>
 <h3 align="center">🖥️ Programming Student from Brazil</h3>
 <h3 align="center">FIAP (1/5) Computer Enginnering⚡</h3>
-<h3> 📌 I'm currently studying Python and Industry 4.0  </h3>
+<h3> 📌 I'm currently studying Python, Javascript, HTML and CSS  </h3>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/madu_goda/) 
